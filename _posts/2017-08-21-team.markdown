@@ -1,0 +1,16 @@
+---
+layout: default
+img: 
+category: team
+title: Our Team
+description: We have a team of experts with a diverse background.
+---
+  The team at Hera Global Tech comes with diverse professional backgrounds, representing a complementary mix of design, technology, healthcare and research professionals.
+
+Poorvi Mathur is a design manager with expertise in design thinking, research and innovation, and a keen interest in social impact. She conceptualized Autonomous as a response to the brutal gang rape of Jyoti Sharma, a young girl in Delhi in 2012. Having lived in India and the USA, she brings in valuable understanding of the problem in a global context.
+
+Elizabeth M. La Rue is a world and culture explorer who focuses on social dynamics, customs, and communication patterns. She is an expert in healthcare informatics curriculum design and research processes. Experiences from living in Sub-Saharan Africa and the Western World motivate her to be an advocate for equal education and social responsibility.
+
+Brady Sheehan is a software engineer with a strong background in mathematics. His experience comes from multiple years of research in low-level computer vision, both within industry and academia. He enjoys applying mathematical models to solve problems in a wide range of domains with the ultimate goal of helping people.
+
+Jarad Prinkey is a research bioengineer with strong skills in embedded technology and prototype electronics, software and hardware. He likes to use new and old technology to design biosensor systems for the measurement of everything from the pressure profile of someone sitting in a chair to the acceleration of a football helmet during a simulated head-to-head tackle. He enjoys using off the shelf technology in new and innovative ways.

@@ -1,6 +1,7 @@
-<section id="services">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
+<!--  Even/odd loop is how we gray-out some sections and leave white backgrouns for others. -->
+<section id="{{ post.category }}">
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
